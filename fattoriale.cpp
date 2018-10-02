@@ -7,9 +7,7 @@ int main ()
 cout << "Dammi il numero " ;
 int n;
 cin >> n;
-int f;
-int x;
-int j;
+int f,x,j;
 
 j = 1; 
 f = n;
